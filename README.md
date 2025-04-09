@@ -5,6 +5,8 @@ FanXperience is a revolutionary AI-driven platform designed to transform the way
 
 Whether it’s predicting ticket prices, forecasting attendance, or personalizing offers — this project brings together data science and fan passion to create a truly immersive matchday journey.
 
+----------------------------------------------------------------------------------------
+
 🚀 Core Objectives
 🎯 Predict optimal ticket prices using regression models.
 
@@ -14,6 +16,7 @@ Whether it’s predicting ticket prices, forecasting attendance, or personalizin
 
 🎯 Improve planning, boost revenues, and enhance in-stadium fan engagement.
 
+----------------------------------------------------------------------------------------
 
 🧠 What’s Under the Hood?
 
@@ -44,6 +47,8 @@ Classification: Evaluated with Accuracy, Precision, Recall, and F1-score.
 
 Feature Importance: Visualized top influences on ticket price and buying behavior.
 
+----------------------------------------------------------------------------------------
+
 💡 Why FanXperience Matters
 
 🔄 Dynamic Pricing: Adjust ticket costs in real-time based on demand, weather, and match significance.
@@ -53,6 +58,8 @@ Feature Importance: Visualized top influences on ticket price and buying behavio
 📍 In-Stadium Experience: Smart seat upgrades, food delivery to your seat, wayfinding, and in-app fan engagement.
 
 📊 Data-Driven Revenue Growth: Deliver real-time, behavior-based promotions to increase repeat purchases and fan loyalty.
+
+----------------------------------------------------------------------------------------
 
 ✅ Outcome
 
